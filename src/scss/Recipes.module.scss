@@ -1,0 +1,21 @@
+.recipe {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0 0 10px rgb(73, 69, 69);
+    margin: 20px;
+    padding: 20px;
+    min-width: 500px;
+    border-radius: 10px;
+}
+
+.img{
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+
+
